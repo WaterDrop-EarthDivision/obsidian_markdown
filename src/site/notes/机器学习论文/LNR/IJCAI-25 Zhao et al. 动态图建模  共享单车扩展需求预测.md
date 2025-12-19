@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"//lnr/ijcai-25-zhao-et-al/","dgPassFrontmatter":true,"created":"2025-11-12T11:55:25.508+08:00","updated":"2025-12-19T13:19:50.186+08:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"//lnr/ijcai-25-zhao-et-al/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-11-12T11:55:25.508+08:00","updated":"2025-12-19T13:20:49.480+08:00"}
 ---
 
 
